@@ -63,6 +63,10 @@ export const USER_CONFIG = {
       name: "宝贝0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ouw9d5jFH98rZ4YssIVTrLFBqN1o",
+      // 想要发送的人的名字
+      name: "宝贝1",
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: "ouw9d5lqqG_F1FMQBN2vAL5iZHuI",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
       // 所在省份
@@ -81,8 +85,8 @@ export const USER_CONFIG = {
         {"type": "*生日", "name": "宝贝", "year": "2002", "date": "04-18"},
         {"type": "生日", "name": "昱昱", "year": "2001", "date": "11-13"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "恋爱纪念日", "name": "我们", "year": "2022", "date": "07-27"},
-        {"type": "第一次见面", "name": "我们", "year": "2001", "date": "8-23"},
+        {"type": "纪念日", "name": "我们", "year": "2022", "date": "07-27"},
+        {"type": "纪念日", "name": "我们", "year": "2001", "date": "8-23"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
