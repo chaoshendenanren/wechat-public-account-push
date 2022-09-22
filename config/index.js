@@ -96,7 +96,7 @@ export const USER_CONFIG = {
     },
     {
       name: "宝贝1",
-      id: "",
+      id: "ouw9d5jFH98rZ4YssIVTrLFBqN1o",
       useTemplateId: "",
       province: "",
       city: "",
@@ -108,7 +108,7 @@ export const USER_CONFIG = {
     },
     {
       name: "宝贝2",
-      id: "",
+      id: "ouw9d5lqqG_F1FMQBN2vAL5iZHuI",
       useTemplateId: "",
       province: "",
       city: "",
