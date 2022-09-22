@@ -81,8 +81,8 @@ export const USER_CONFIG = {
         {"type": "*生日", "name": "宝贝", "year": "2002", "date": "04-18"},
         {"type": "生日", "name": "昱昱", "year": "2001", "date": "11-13"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "宝贝", "year": "2002", "date": "05-29"},
-        {"type": "生日", "name": "昱昱", "year": "2001", "date": "12-27"},
+        {"type": "恋爱纪念日", "name": "我们", "year": "2022", "date": "07-27"},
+        {"type": "第一次见面", "name": "我们", "year": "2001", "date": "8-23"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
