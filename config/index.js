@@ -103,7 +103,7 @@ export const USER_CONFIG = {
     {
       name: "宝贝1",
       id: "ouw9d5jFH98rZ4YssIVTrLFBqN1o",
-      useTemplateId: "",
+      useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
       province: "",
       city: "",
       horoscopeDate: '',
@@ -115,7 +115,7 @@ export const USER_CONFIG = {
     {
       name: "宝贝2",
       id: "ouw9d5lqqG_F1FMQBN2vAL5iZHuI",
-      useTemplateId: "",
+      useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
       province: "",
       city: "",
       horoscopeDate: '',
@@ -126,8 +126,8 @@ export const USER_CONFIG = {
     },
     {
       name: "宝贝3",
-      id: "",
-      useTemplateId: "",
+      id: "ouw9d5lqqG_F1FMQBN2vAL5iZHuI",
+      useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
       province: "",
       city: "",
       horoscopeDate: '',
