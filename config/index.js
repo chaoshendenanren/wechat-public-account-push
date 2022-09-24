@@ -70,7 +70,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ouw9d5jFH98rZ4YssIVTrLFBqN1o",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
+      useTemplateId: "LDaotqeHkTXBmcyTyOKNC3zK7v1xxnHLdwlB91HkjPA",
       // 所在省份
       province: "山东",
       // 所在城市
@@ -103,7 +103,7 @@ export const USER_CONFIG = {
     {
       name: "宝贝1",
       id: "ouw9d5jFH98rZ4YssIVTrLFBqN1o",
-      useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
+      useTemplateId: "LDaotqeHkTXBmcyTyOKNC3zK7v1xxnHLdwlB91HkjPA",
       province: "",
       city: "",
       horoscopeDate: '',
@@ -115,7 +115,7 @@ export const USER_CONFIG = {
     {
       name: "宝贝2",
       id: "ouw9d5lqqG_F1FMQBN2vAL5iZHuI",
-      useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
+      useTemplateId: "LDaotqeHkTXBmcyTyOKNC3zK7v1xxnHLdwlB91HkjPA",
       province: "",
       city: "",
       horoscopeDate: '',
@@ -127,7 +127,7 @@ export const USER_CONFIG = {
     {
       name: "宝贝3",
       id: "ouw9d5lqqG_F1FMQBN2vAL5iZHuI",
-      useTemplateId: "EEekncNruhzFCthBhsZ5e96eyOA7NgfN-enx38nNKsI",
+      useTemplateId: "LDaotqeHkTXBmcyTyOKNC3zK7v1xxnHLdwlB91HkjPA",
       province: "",
       city: "",
       horoscopeDate: '',
